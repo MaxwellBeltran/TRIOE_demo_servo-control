@@ -127,6 +127,5 @@ Want to expand your project? Try:
 
 ---
 
-**Happy Building!**
-
-If you have questions or improvements, feel free to modify this code and experiment!
+License
+This project is part of the TRIOE / Parallax Edutech ecosystem. Refer to the project maintainers for license and usage terms.
