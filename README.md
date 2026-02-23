@@ -127,5 +127,6 @@ Want to expand your project? Try:
 
 ---
 
-License
+## License
+
 This project is part of the TRIOE / Parallax Edutech ecosystem. Refer to the project maintainers for license and usage terms.
